@@ -1,0 +1,1 @@
+[httpstatuses.com](httpstatuses.com) farsi translation
